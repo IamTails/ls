@@ -58,3 +58,6 @@ typings/
 .env
 /config/default.json
 /package-lock.json
+
+# npm post-install module meta-data
+package-lock.json
